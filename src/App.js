@@ -3,6 +3,7 @@ import "./App.css";
 import Home from "./Components/Pages/Home";
 import NavSection from "./Components/Shared/NavSection";
 import Loader from "./asstes/Images/loader.gif";
+import Footer from "./Components/Shared/Footer";
 function App() {
   const [loader, setLoader] = useState(true);
   useEffect(() => {
@@ -21,6 +22,7 @@ function App() {
         <>
           <NavSection />
           <Home />
+          <Footer />
         </>
       )}
     </div>
