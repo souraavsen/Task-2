@@ -1,0 +1,42 @@
+.slide1 {
+  background-image: url(../../../../asstes/Images/banner_bg1.jpg);
+  background-repeat: no-repeat;
+  background-size:cover
+}
+
+.slide2 {
+  background-image: url(../../../../asstes/Images/banner_bg3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide3 {
+  background-image: url(../../../../asstes/Images/banner_bg2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide1-content {
+  clip-path: polygon(0 30%, 60% 30%, 50% 100%, 0% 100%);
+}
+
+.slide2-content {
+  float: right;
+  clip-path: polygon(0 0, 69% 0, 48% 100%, 0% 100%);
+}
+
+.slide3-content {
+  clip-path: polygon(43% 30%, 100% 30%, 100% 100%, 28% 100%);
+}
+
+@media only screen and (max-width: 750px) {
+  .slide1-content {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+  .slide2-content {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+  .slide3-content {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+}

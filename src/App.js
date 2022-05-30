@@ -1,10 +1,12 @@
-import './App.css';
-import NavSection from './Components/Shared/NavSection';
+import "./App.css";
+import Home from "./Components/Pages/Home";
+import NavSection from "./Components/Shared/NavSection";
 
 function App() {
   return (
     <div>
-      <NavSection/>
+      <NavSection />
+      <Home />
     </div>
   );
 }
