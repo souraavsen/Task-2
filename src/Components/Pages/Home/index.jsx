@@ -1,7 +1,7 @@
 import React from "react";
-import Banner from "./Banner/Banner";
+import Banner from "./Banner";
 import Events from "./Events";
-import TopNewes from "./TopNewes/TopNewes";
+import TopNewes from "./TopNewes";
 
 const Home = () => {
   return (
