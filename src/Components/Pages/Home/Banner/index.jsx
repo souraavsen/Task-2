@@ -5,7 +5,7 @@ import "./Banner.css";
 const Banner = () => {
   return (
     <div>
-      <div className='-mt-20'>
+      <div className='mt-6'>
         <Carousel fade>
           <Carousel.Item interval={4000}>
             <div className='slide1 lg:w-screen lg:min-h-screen'>

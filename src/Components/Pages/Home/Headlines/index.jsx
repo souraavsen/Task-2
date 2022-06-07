@@ -1,5 +1,4 @@
-import React from "react";
-import Ticker, { FinancialTicker, NewsTicker } from "nice-react-ticker";
+import Ticker, { NewsTicker } from "nice-react-ticker";
 
 const Headlines = () => {
   return (

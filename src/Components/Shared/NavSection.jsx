@@ -5,7 +5,7 @@ import logo from "../../asstes/Images/logo.png";
 const NavSection = () => {
   return (
     <div>
-      <div className='sticky top-0 z-50'>
+      <div className='fixed w-screen top-0 z-50'>
         <Navbar
           className='bg-gray-50 bg-opacity-70 backdrop-filter backdrop-blur-md'
           expand='lg'
@@ -80,7 +80,6 @@ const NavSection = () => {
                     </button>
                   </div>
                 </div>
-                {/* <Nav.Link className='mx-3 px-0 text-black border-b-2 border-transparent hover:border-stone-400 my-auto'> */}
                 <div className='dropdown my-auto'>
                   <div
                     className='mx-3 px-0 text-black border-b-2 border-transparent hover:border-stone-400 my-auto'
