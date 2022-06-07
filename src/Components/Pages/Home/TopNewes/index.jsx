@@ -60,6 +60,7 @@ const TopNewes = () => {
                 className='bg-white shadow-md p-1 rounded-md'
                 src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Mujib_100_Logo.svg/800px-Mujib_100_Logo.svg.png'
                 width='90%'
+                alt=""
               />
             </div>
 

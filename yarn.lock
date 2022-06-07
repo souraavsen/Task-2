@@ -6142,6 +6142,11 @@ neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
+nice-react-ticker@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/nice-react-ticker/-/nice-react-ticker-2.0.0.tgz#93d61ad61771ad2bead52caf8d292630611e26dd"
+  integrity sha512-BYsV9P4WAMow+VMtBLzTlgb1V/ONt1Dcotrn3UYUyiZr5ChM2tz08JY3HBnUq+ba1DT9XETCAAL4G/0BlOymyA==
+
 no-case@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/no-case/-/no-case-3.0.4.tgz#d361fd5c9800f558551a8369fc0dcd4662b6124d"

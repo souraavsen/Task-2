@@ -5,7 +5,7 @@ import "owl.carousel/dist/assets/owl.theme.default.css";
 
 const Members = () => {
   return (
-    <div className='container md:flex justify-center items-center pt-28'>
+    <div className='container md:flex justify-center items-center pt-24'>
       <div className='w-4/12 flex flex-col mx-auto items-start mr-10 pb-10 lg:pb-0 lg:w-5/12'>
         <h1 className='text-center text-2xl font-semibold p-12'>
           উপদেষ্টা/বিশেষ সহকারীগণ

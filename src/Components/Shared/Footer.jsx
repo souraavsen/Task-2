@@ -28,31 +28,31 @@ const Footer = () => {
             </h4>
             <div className='grid grid-cols-4 md:grid-cols-1 relative float-left'>
               <a
-                href='#'
+                href='/'
                 className='list-item absolute top-0 underline mb-1 hover:ml-4 hover:transition-all hover:delay-75'
               >
                 গোপনীয়তার
               </a>
               <a
-                href='#'
+                href='/'
                 className='list-item absolute top-8 underline mb-1 hover:ml-4 hover:transition-all hover:delay-75'
               >
                 নীতিমালাব্যবহারের
               </a>
               <a
-                href='#'
+                href='/'
                 className='list-item absolute top-16 underline mb-1 hover:ml-4 hover:transition-all hover:delay-75'
               >
                 শর্তাবলিসার্বিক
               </a>
               <a
-                href='#'
+                href='/'
                 className='list-item absolute top-24 underline mb-1 hover:ml-4 hover:transition-all hover:delay-75'
               >
                 সহযোগিতায়সাইট
               </a>
               <a
-                href='#'
+                href='/'
                 className='list-item absolute top-32 underline mb-1 hover:ml-4 hover:transition-all hover:delay-75'
               >
                 ম্যাপসচরাচর
