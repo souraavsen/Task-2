@@ -2,6 +2,7 @@ import React from "react";
 import logo from "../../asstes/Images/logo.png";
 import footerLogo from "../../asstes/Images/footer_logo.png";
 import footerTop from "../../asstes/Images/footer_top.png";
+import Icons from "./Icons";
 
 const Footer = () => {
   return (
@@ -65,15 +66,24 @@ const Footer = () => {
             </h4>
             <div>
               <div className='flex flex-col justify-center items-center md:block mb-4'>
-                <p>
-                  <i className='fas fa-map-marked-alt pe-2'></i>911411913165181
-                </p>
-                <p>
-                  <i className='fas fa-phone-alt pe-2'></i>01475585885
-                </p>
-                <p>
-                  <i className='fas fa-envelope pe-2'></i>bd.govt@gmail.com
-                </p>
+                <a
+                  href='tel:911411913165181'
+                  className='flex items-center font-medium mb-2'
+                >
+                  <Icons.TelePhone className='w-4 mr-2' />
+                  <span>911411913165181</span>
+                </a>
+                <a
+                  href='tel:+8801756-414858'
+                  className='flex items-center font-medium mb-2'
+                >
+                  <Icons.Mobile className='w-4 mr-2' />
+                  <span>01756414858</span>
+                </a>
+                <div className='flex items-center font-medium'>
+                  <Icons.Location className='w-4 mr-2' />
+                  <span>BCC Bhaban, E-14 10, Dhaka 1207</span>
+                </div>
               </div>
               <div className='mt-2 flex flex-col justify-center items-center md:items-start'>
                 <img
