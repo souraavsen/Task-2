@@ -4,10 +4,10 @@ const TopNewes = () => {
   return (
     <div>
       <div className='pt-10'>
-        <h1 className='text-center text-4xl font-semibold pb-16 mt-20'>
+        <h1 className='text-center text-2xl font-semibold pb-16 mt-20'>
           সকল বাতায়ন
         </h1>
-        <div className='container bg-stone-300 py-10'>
+        <div className='container bg-stone-200 py-10'>
           <div className='md:grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3'>
             <div className='mx-auto mb-6 flex justify-center items-center'>
               <iframe

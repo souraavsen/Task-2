@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "জনাব সজীব ওয়াজেদ",
+    "image": "https://ictd.portal.gov.bd/sites/default/files/files/ictd.portal.gov.bd/npfblock//last-pic-adviser.jpg",
+    "designation": "প্রধানমন্ত্রীর আইসিটি বিষয়ক উপদেষ্টা "
+  },
+  {
+    "id": 2,
+    "name": "জনাব জুনাইদ আহ্‌মেদ পলক এমপি",
+    "image": "https://ictd.portal.gov.bd/sites/default/files/files/ictd.portal.gov.bd/npfblock//HSM%20%281%29.jpg",
+    "designation": "মাননীয় প্রতিমন্ত্রী"
+  },
+  {
+    "id": 3,
+    "name": "জনাব এন এম জিয়াউল আলম পিএএ",
+    "image": "https://ictd.portal.gov.bd/sites/default/files/files/ictd.portal.gov.bd/npfblock//Senior%20Secretary%20Sir%20%281%29.jpg",
+    "designation": "সিনিয়র সচিব"
+  },
+  {
+    "id": 4,
+    "name": "জনাব জুনাইদ আহ্‌মেদ পলক এমপি",
+    "image": "https://ictd.portal.gov.bd/sites/default/files/files/ictd.portal.gov.bd/npfblock//HSM%20%281%29.jpg",
+    "designation": "মাননীয় প্রতিমন্ত্রী"
+  },
+  {
+    "id": 5,
+    "name": "জনাব এন এম জিয়াউল আলম পিএএ",
+    "image": "https://ictd.portal.gov.bd/sites/default/files/files/ictd.portal.gov.bd/npfblock//Senior%20Secretary%20Sir%20%281%29.jpg",
+    "designation": "সিনিয়র সচিব"
+  }
+]

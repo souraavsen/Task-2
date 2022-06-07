@@ -2,7 +2,6 @@ import React from "react";
 import Icons from "../../../Shared/Icons";
 import events from "./Events.json";
 const Events = () => {
-  console.log(events);
   return (
     <div className='my-10'>
       {/* ongoinging Event section  */}
